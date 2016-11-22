@@ -26,3 +26,7 @@ Hugo, Wieke,
 <span style="font-size: 90%;">Hugo, Wieke,
 <span style="font-size: 90%;">Koetje, Nunu,
 </span></span></span></span></span></span></span></span>
+
+[Full Size](../../images/hugowieke2007.jpg)
+
+[Original](../../images/hugowieke2007_original.jpg)
